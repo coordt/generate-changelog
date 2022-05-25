@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+generate_changelog.templating.generate_commit_context
+
+generate\_commit\_context
+=========================
+
+.. currentmodule:: generate_changelog.templating
+
+.. autofunction:: generate_commit_context

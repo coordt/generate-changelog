@@ -1,0 +1,41 @@
+﻿.. rst-class:: subheading
+
+generate_changelog.templating
+
+templating
+==========
+
+.. currentmodule:: generate_changelog.templating
+
+.. automodule:: generate_changelog.templating
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :nosignatures:
+      :toctree: templating
+   
+      first_matching
+      generate_commit_context
+      get_context_from_tags
+      get_default_env
+      get_pipeline_env
+      render
+      sort_group_commits
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+   
+   

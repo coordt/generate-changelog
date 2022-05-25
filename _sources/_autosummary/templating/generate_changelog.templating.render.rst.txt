@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+generate_changelog.templating.render
+
+render
+======
+
+.. currentmodule:: generate_changelog.templating
+
+.. autofunction:: render

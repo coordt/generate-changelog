@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+generate_changelog.templating.get_context_from_tags
+
+get\_context\_from\_tags
+========================
+
+.. currentmodule:: generate_changelog.templating
+
+.. autofunction:: get_context_from_tags

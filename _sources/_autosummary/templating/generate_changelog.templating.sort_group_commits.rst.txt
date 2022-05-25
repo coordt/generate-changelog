@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+generate_changelog.templating.sort_group_commits
+
+sort\_group\_commits
+====================
+
+.. currentmodule:: generate_changelog.templating
+
+.. autofunction:: sort_group_commits

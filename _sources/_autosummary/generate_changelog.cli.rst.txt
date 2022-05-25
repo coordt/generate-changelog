@@ -1,0 +1,37 @@
+﻿.. rst-class:: subheading
+
+generate_changelog.cli
+
+cli
+===
+
+.. currentmodule:: generate_changelog.cli
+
+.. automodule:: generate_changelog.cli
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :nosignatures:
+      :toctree: cli
+   
+      generate_config_callback
+      main
+      version_callback
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+   
+   
